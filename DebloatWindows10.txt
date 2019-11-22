@@ -1,0 +1,144 @@
+3DViewer​
+AAD.BrokerPlugin​
+Advertising.Xaml​
+Alarms​
+AssignedAccessLockApp
+BingWeather​
+BioEnrollment​
+Biometric Service
+Cache and temp files
+Calculator​
+CallingShellApp​
+Camera​
+CapturePicker​
+CBSPreview​
+CEIP_SQM
+CommunicationsApps
+Component Store (WinSxS)
+Connect
+Content Delivery Manager
+Cortana​
+CredDialogHost​
+Defender
+DesktopAppInstaller​
+ECApp​
+Edge
+Edge HTML Viewer (32-bit)​
+EdgeDevToolsClient​
+Edge​
+Embedded Features
+Experience Host
+FeedbackHub​
+FileExplorer
+FilePicker​
+GetHelp​
+HEIFImageExtension​
+Help file support (CHM)​
+Holo MDL2 Assets​
+HomeGroup
+Hyper-V
+Intel Indeo Codecs​
+KernelDebugging
+Location Service​
+Lock Screen backgrounds​
+LockApp
+Manifest Backup (WinSxS\Backup)
+Manual Setup Feature
+MapsControl
+Maps​
+Messaging​
+Microsoft | c_volsnap.inf
+Microsoft | volsnap.inf
+Mixed Reality
+MixedReality.Portal​
+Mobile Plans​
+MPEG-2 Splitter​
+Office.OneNote​
+OfficeHub​
+OneConnect
+OneDrive Desktop Client
+OneDrive​
+Optional Features
+Other Themes​
+Paint 3D​
+ParentalControls​
+Payments and NFC/SE Manager​
+PeopleExperienceHost​
+People​
+Photos​
+PinningConfirmationDialog​
+PlayReady​
+PPIProjection​
+Print3D​
+PrintDialog​
+Quick Assist App
+QuickAssist
+Recovery
+RemoteAssistance
+Retail Demo Content​
+Screensavers​
+ScreenSketch​
+Search
+SecureAssessmentBrowser
+Services.Store.Engagement​
+Setting Sync​
+Share Media Control Panel​
+Skype ORTC
+Skype ORTC​
+SkypeApp​
+SmartScreen
+SnippingTool
+SolitaireCollection​
+SoundRecorder​
+Speech Recognition​
+Speech TTS​
+StartMenu
+StartMenuExperienceHost​
+StickyNotes​
+Store Client
+StorePurchaseApp​
+System Preparation tool (Sysprep)​
+System Restore
+Take Test App
+Telemetry
+Tips (Get Started)​
+TV Tuner codecs and support​
+UI.Xaml.2.0​
+Unified Telemetry Client (Asimov)​
+VCLibs.140.00.UWPDesktop​
+Video Compression Manager (VCM) codecs​
+Volume Shadow Copy
+VP9VideoExtensions​
+Wallet Service​
+Webcam Experience​
+WebMediaExtensions​
+WebpImageExtension​
+Windows ****​
+Windows Component Database
+Windows Defender​
+Windows Help content​
+Windows Mixed Reality​
+Windows Reader (PDF)​
+Windows Store​
+Windows System Assessment Tool (WinSAT)​
+WindowsSubsystemForLinux
+WindowsToGo
+Xbox App​
+Xbox.TCUI​
+XboxGameCallableUI​
+XboxGamingOverlay​
+XboxIdentityProvider​
+XboxSpeechToTextOverlay​
+XGpuEjectDialog​
+YourPhone​
+ZuneMusic​
+ZuneVideo​
+
+Keep/Integrated
+| Touch screen device support | Windows Update (Status disabled) | Windows PowerShell | Cortana (for local search, status disabled) | Keyboard layout and language | Windows SmartScreen (tweaked) | Microsoft .NET Framework 3.5 | StartIsBack 2.7.3 (preinstalled) | IE | WMP | Photo viewer | Remote desktop connection | Legacy components – Direct play (Status enabled) | Paint | other things… |
+
+Removed
+| All Windows Apps Except apps at keep/integrate info | Windows Defender | Windows firewall (only GUI) | Windows backup | Windows Home Group | Windows Embedded Features | Microsoft Telemetry | User Account Control | Windows Reader PDF | Kernel Debugging | Windows Sub system For Linux | Manifest Backup (WinSxS\Backup) | Windows System Assessment Tool (WinSAT) | Windows Recovery | other things… |
+
+Tweaks
+| Disabled Search Index | Disable Automatic Driver Updates through Windows Update | Disable Automatic Downloading and Installing 3rd Party Apps | Tweak windows photo integration | Add Context Menu Run As Administrator | Add Context Menu Open CMD Here | Add Context Menu Take Ownership | Add some dekstop icon | Search icon on taskbar| and more Registry Tweaks |
